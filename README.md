@@ -112,6 +112,7 @@ A personal list of programs, websites and extensions I have been recommended ove
 - [Ninite](https://ninite.com/) - Install or Update Multiple Apps at Once
 - [Photopea](https://www.photopea.com/) - A web-based photo and graphics editor
 - [Regex Generator](https://regex-generator.olafneumann.org/?flags=i&sampleText=) - Regex Generator
+- [Resonite Mod Search](https://resonite-mod-search.bree.dev/) - An index of mods for Resonite
 - [SauceNAO](https://saucenao.com) - Image source locator
 - [Vencord](https://vencord.dev) - The cutest Discord client mod
 
