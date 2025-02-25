@@ -1,5 +1,6 @@
 # Utilities
 A personal list of programs, websites and extensions I have been recommended over time.
+🌟 - Personal favourites!
 
 ## Contents
 
@@ -11,14 +12,14 @@ A personal list of programs, websites and extensions I have been recommended ove
 
 ## Programs
 
-- [7-Zip](https://7-zip.org/) - Open-source file archiver and extractor
+- 🌟[7-Zip](https://7-zip.org/) - Open-source file archiver and extractor
 - [Agent Ransack](https://www.mythicsoft.com/agentransack/) - Free File Searching Utility
 - [Audacious](https://audacious-media-player.org/) - An open source audio player
 - [Audacity](https://github.com/audacity/audacity) - An easy to use, cross-platform, multi-track audio editor and recorder
 - [AutoHotKey](https://www.autohotkey.com/) - Automation scripting language for Windows
 - [Bitwarden](https://bitwarden.com/) - A freemium open-source password management service that stores sensitive information in an encrypted vault
 - [BleachBit](https://www.bleachbit.org/) - Clean your system and free disk space
-- [Blender](https://www.blender.org/) - Free and open-source 3D computer graphics software
+- 🌟[Blender](https://www.blender.org/) - Free and open-source 3D computer graphics software
 - [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)- Remove large amounts of unwanted applications quickly
 - [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) - Free File Renaming Software
 - [Cheat Engine](https://www.cheatengine.org/) - A tool that helps you figure out how a game/application works and make modifications to it
@@ -31,8 +32,8 @@ A personal list of programs, websites and extensions I have been recommended ove
 - [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR]
 - [Exact Audio Copy](https://www.exactaudiocopy.de/) - Audio grabber for CDs
 - [ExifTool](https://exiftool.org/) - Free and open-source software program for reading, writing, and manipulating image, audio, video, and PDF metadata
-- [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
-- [foobar2000](https://www.foobar2000.org/) - A versatile audio player that supports various formats
+- 🌟[ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
+- 🌟[foobar2000](https://www.foobar2000.org/) - A versatile audio player that supports various formats
 - [Furnace](https://github.com/tildearrow/furnace) - A multi-system chiptune tracker compatible with DefleMask modules
 - [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) - Free CAD software
 - [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
@@ -40,12 +41,12 @@ A personal list of programs, websites and extensions I have been recommended ove
 - [Headscale](https://headscale.net/) - An open source, self-hosted implementation of the Tailscale control server
 - [HTTrack](https://www.httrack.com/) - Download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer
 - [HWiNFO](https://www.hwinfo.com/download/) - Hardware information utility
-- [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers
+- 🌟[ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers
 - [Insomnia](https://insomnia.rest/products/insomnia) - A powerful REST API Client with cookie management, environment variables, code generation, and authentication for Mac, Window, and Linux
 - [jellyfin](https://jellyfin.org) - The Free Software Media System
 - [JPEGView](https://sourceforge.net/projects/jpegview/) - A lean, fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images with a minimal GUI
 - [Kdenlive](https://kdenlive.org/) - Free and Open Source Video Editor
-- [KeepassXC](https://github.com/keepassxreboot/keepassxc) - Open Source, Cross-platform Password Manager
+- 🌟[KeepassXC](https://github.com/keepassxreboot/keepassxc) - Open Source, Cross-platform Password Manager
 - [KoboldCpp](https://github.com/LostRuins/koboldcpp) - An easy-to-use AI text-generation software for GGML and GGUF models
 - [LatencyMon](https://resplendence.com/latencymon) - Find what's making your computer lock up from time to time
 - [LMMS](https://lmms.io/) - Free cross-platform software which allows you to produce music with your computer
@@ -57,14 +58,14 @@ A personal list of programs, websites and extensions I have been recommended ove
 - [mRemoteNG](https://mremoteng.org/) - Multi-Remote Next Generation Connection Manager
 - [Nextcloud](https://nextcloud.com/) - Open source content collaboration platform
 - [O&OShutup10](https://www.oo-software.com/en/shutup10) - Free antispy tool for Windows 10 and 11
-- [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording
+- 🌟[OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording
 - [Obsidian](https://obsidian.md/) - Knowledge base and note-taking software
 - [Paessler PRTG](http://www.paessler.com/prtg) - Monitor a bunch of computers or network devices and their status at once
 - [Parsec](https://parsec.app/) - Remote Desktop Software
 - [PhotoSift](https://github.com/rlv-dan/PhotoSift) - Quickly organize unsorted images into folders using the keyboard
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2) - Download images from Pixiv and more!
 - [Plex Media Server](https://www.plex.tv/personal-media-server/) - A software application that allows you to organize and stream your collection of movies, TV shows, music, and photos, from a central location
-- [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
+- 🌟[Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [Proxmox](https://www.proxmox.com/en/) - A complete open-source platform for enterprise virtualization
 - [PureRef](https://www.pureref.com/) - All your reference images in one place
 - [qBittorrent](https://www.qbittorrent.org/) - Cross-platform BitTorrent client
@@ -82,11 +83,11 @@ A personal list of programs, websites and extensions I have been recommended ove
 - [Sweet Home 3D](https://sourceforge.net/projects/sweethome3d/) - A free architectural design software
 - [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - Utilities to help you manage, troubleshoot and diagnose your Windows and Linux systems and applications
 - [T-Clock](https://github.com/White-Tiger/T-Clock) - Highly configurable Windows taskbar clock
-- [Tailscale](https://tailscale.com/) - Partially open-source software-defined mesh virtual private network and a web-based management service
+- 🌟[Tailscale](https://tailscale.com/) - Partially open-source software-defined mesh virtual private network and a web-based management service
 - [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans dependency on Google web services
 - [VidCoder](https://vidcoder.net/) - An open-source DVD/Blu-ray ripping and video transcoding application for Windows
 - [Virtual Audio Cable](https://vac.muzychenko.net/en/) - An audio bridge between applications that transmits sounds (audio streams) from app to app, from device to device
-- [VLC](https://www.videolan.org/vlc/) - A free and open source cross-platform multimedia player
+- 🌟[VLC](https://www.videolan.org/vlc/) - A free and open source cross-platform multimedia player
 - [VSCodium](https://github.com/VSCodium/vscodium) - Binary releases of VS Code without MS branding/telemetry/licensing
 - [waifu2x caffe](https://github.com/lltcggie/waifu2x-caffe) - Fast and lightweight AI image upscaler
 - [WinDirStat](https://windirstat.net/) - A disk usage statistics viewer and clean up tool
@@ -94,7 +95,7 @@ A personal list of programs, websites and extensions I have been recommended ove
 - [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install) - Run a Linux environment on your Windows machine, without the need for a separate virtual machine or dual booting
 - [Wireshark](https://www.wireshark.org/) - Packet analyser for network troubleshooting and analysis.
 - [Xenos](https://github.com/DarthTon/Xenos) - A Windows DLL injector
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features
+- 🌟[yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features
 - [Zeal](https://github.com/zealdocs/zeal/) - Offline documentation browser inspired by Dash
 
 
@@ -124,5 +125,5 @@ A personal list of programs, websites and extensions I have been recommended ove
 - [sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [SponsorBlock](https://sponsor.ajay.app/) - A browser extension and API that lets you skip sponsor segments in YouTube videos
 - [transpose.video](https://transpose.video/) - Pitch shifter, speed changer and looper for online videos like YouTube.
-- [uBlock Origin](https://ublockorigin.com/) - A free and open-source browser extension for content-filtering, including ad-blocking.
+- 🌟[uBlock Origin](https://ublockorigin.com/) - A free and open-source browser extension for content-filtering, including ad-blocking.
 - [ViolentMonkey](https://violentmonkey.github.io/) - An open source userscript manager
