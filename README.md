@@ -80,13 +80,17 @@ A personal list of programs, websites and extensions I have been recommended ove
 - [Stremio](https://www.stremio.com/) - Stremio offers a secure, modern and seamless entertainment experience
 	- I am not allowed to recommend the Torrentio addon I think
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
+- 🌟[Sunshine](https://app.lizardbyte.dev/Sunshine/) - A self-hosted game stream host for Moonlight
 - [Sweet Home 3D](https://sourceforge.net/projects/sweethome3d/) - A free architectural design software
 - [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - Utilities to help you manage, troubleshoot and diagnose your Windows and Linux systems and applications
 - [T-Clock](https://github.com/White-Tiger/T-Clock) - Highly configurable Windows taskbar clock
 - 🌟[Tailscale](https://tailscale.com/) - Partially open-source software-defined mesh virtual private network and a web-based management service
+- [Tectonic](https://tectonic-typesetting.github.io/en-US/) - A modernize, complete, self-contained TeX/LaTeX engine
 - [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans dependency on Google web services
 - [VidCoder](https://vidcoder.net/) - An open-source DVD/Blu-ray ripping and video transcoding application for Windows
 - [Virtual Audio Cable](https://vac.muzychenko.net/en/) - An audio bridge between applications that transmits sounds (audio streams) from app to app, from device to device
+- [VMware Workstation](https://www.majorgeeks.com/files/details/vmware_workstation_for_windows.html) - Virtual Machine Hypervisor
+	- I am NOT linking broadcom's website, took me AGES to find a download!
 - 🌟[VLC](https://www.videolan.org/vlc/) - A free and open source cross-platform multimedia player
 - [VSCodium](https://github.com/VSCodium/vscodium) - Binary releases of VS Code without MS branding/telemetry/licensing
 - [waifu2x caffe](https://github.com/lltcggie/waifu2x-caffe) - Fast and lightweight AI image upscaler
@@ -95,6 +99,7 @@ A personal list of programs, websites and extensions I have been recommended ove
 - [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install) - Run a Linux environment on your Windows machine, without the need for a separate virtual machine or dual booting
 - [Wireshark](https://www.wireshark.org/) - Packet analyser for network troubleshooting and analysis.
 - [Xenos](https://github.com/DarthTon/Xenos) - A Windows DLL injector
+- 🌟[Yaak](https://yaak.app/) - API client for modern developers
 - 🌟[yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features
 - [Zeal](https://github.com/zealdocs/zeal/) - Offline documentation browser inspired by Dash
 
