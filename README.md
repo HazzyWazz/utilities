@@ -99,7 +99,7 @@ A personal list of programs, websites and extensions I have been recommended ove
 - [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install) - Run a Linux environment on your Windows machine, without the need for a separate virtual machine or dual booting
 - [Wireshark](https://www.wireshark.org/) - Packet analyser for network troubleshooting and analysis.
 - [Xenos](https://github.com/DarthTon/Xenos) - A Windows DLL injector
-- 🌟[Yaak](https://yaak.app/) - API client for modern developers
+- [Yaak](https://yaak.app/) - API client for modern developers
 - 🌟[yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features
 - [Zeal](https://github.com/zealdocs/zeal/) - Offline documentation browser inspired by Dash
 
